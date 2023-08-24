@@ -1,0 +1,57 @@
+body {
+    background-color: gold;
+}
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Nama {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Umur {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.JenisKelamin {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Agama {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.TempatdanTanggalLahir {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Provinsi {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Hobi {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Cita-Cita {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Motto {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Email {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.NoTelepon {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
